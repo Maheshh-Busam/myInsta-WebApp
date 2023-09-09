@@ -1,5 +1,6 @@
 myInsta Web Application developed using React JS, CSS, Tailwind for Frontend and Java, spring boot, MySQl for Backend.
-live Link - https://myinsta-eta.vercel.app/
+live Link - https://myinsta-eta.vercel.app
+
 Here is the Application Working Video.
 
 
